@@ -13,7 +13,7 @@ I am a self-taught blockchain developer focused on the intersection of **Autonom
 ### 🤖 [x402-Nexus-MCP](https://github.com/borishalachev1/nexus-mcp.git-)
 > **The Problem:** AI agents (like Claude) can't pay for their own data/services.
 > **The Solution:** A protocol-level bridge for autonomous agent-to-service micropayments.
-> *Built with: TypeScript, Viem, x402 Protocol, MCP*
+> *Built with: TypeScript, x402 Protocol, MCP*
 
 ### 💎 RWA Tokenization
 > Architecting institutional-grade smart contracts for on-chain asset management with 100% Foundry test coverage.
@@ -31,9 +31,9 @@ I am a self-taught blockchain developer focused on the intersection of **Autonom
 ## ⚙️ TECH STACK
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | `Solidity` `TypeScript` `JavaScript` `Rust (Stylus)` |
-| **Frameworks** | `Foundry` `Viem` `Thirdweb` `Node.js` `Express` |
-| **Blockchain** | `Arbitrum` `Ethereum` `x402 Protocol` `MCP` |
+| **Languages** | `Solidity`  `JavaScript`  |
+| **Frameworks** | `Foundry`  `Thirdweb` `Node.js` `Express` |
+| **Blockchain** |  `Ethereum` `x402 Protocol` `MCP` |
 
 ---
 
