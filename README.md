@@ -10,7 +10,7 @@ I am a self-taught blockchain developer focused on the intersection of **Autonom
 
 ## 🛠️ FEATURED PROJECTS
 
-### 🤖 [x402-Apify-MCP](https://github.com/borishalachev/x402-apify-mcp-server)
+### 🤖 [x402-Nexus-MCP](https://github.com/borishalachev1/nexus-mcp.git-)
 > **The Problem:** AI agents (like Claude) can't pay for their own data/services.
 > **The Solution:** A protocol-level bridge for autonomous agent-to-service micropayments.
 > *Built with: TypeScript, Viem, x402 Protocol, MCP*
@@ -39,7 +39,7 @@ I am a self-taught blockchain developer focused on the intersection of **Autonom
 
 ## 📫 LET'S CONNECT
 *   **LinkedIn**: [Boris Halachev](https://www.linkedin.com/in/boris-halachev-30b79b364/)
-*   **GitHub**: [@borishalachev](https://github.com/borishalachev)
+*   **GitHub**: [@borishalachev](https://github.com/borishalachev1)
 *   **Email**: [aepbobi023@gmail.com](mailto:aepbobi023@gmail.com)
 
 ---
