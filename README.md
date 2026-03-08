@@ -6,7 +6,7 @@
 │    and building the next generation of monetized **AI                    │
 │    Agents**.                                                             │
 │  6                                                                       │
-│  7 ---                                                                   │
+│  7 ---                                                                  │
 │  8                                                                       │
 │  9 ### 🚀 What I’m Working On                                            │
 │ 10 *   **x402-Apify-MCP**: Bridging AI agents (Claude) with on-chain     │
