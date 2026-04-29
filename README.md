@@ -1,16 +1,16 @@
-# 👨‍💻 Boris Halachev
+#  Boris Halachev
 ### Web3 Architect | L2 Ecosystem Builder | AI-Agent Specialist
 
 ---
 
-## 🚀 THE MISSION
+##  THE MISSION
 I am a self-taught blockchain developer focused on the intersection of **Autonomous AI Agents** and **Layer 2 Scaling**. My goal is to build the infrastructure that allows decentralized intelligence to thrive on **Arbitrum**.
 
 ---
 
-## 🛠️ FEATURED PROJECTS
+##  FEATURED PROJECTS
 
-### 🤖 [x402-Nexus-MCP](https://github.com/borishalachev1/nexus-mcp.git-)
+###  [x402-Nexus-MCP](https://github.com/borishalachev1/nexus-mcp.git-)
 > **The Problem:** AI agents (like Claude) can't pay for their own data/services.
 > **The Solution:** A protocol-level bridge for autonomous agent-to-service micropayments.
 > *Built with: TypeScript, x402 Protocol, MCP*
@@ -22,20 +22,7 @@ I am a self-taught blockchain developer focused on the intersection of **Autonom
 ---
 
 ## 📊 REACH & IMPACT
-*   **160,000+ FOLLOWERS** (TikTok & YouTube) 🚀
-*   **TECHNICAL STORYTELLER**: Specializing in converting complex blockchain mechanics into high-engagement educational content.
-*   **OPEN SOURCE**: Active contributor to the x402 Payment Protocol (Coinbase).
-
----
-
-## ⚙️ TECH STACK
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | `Solidity`  `JavaScript`  |
-| **Frameworks** | `Foundry`  `Thirdweb` `Node.js` `Express` |
-| **Blockchain** |  `Ethereum` `x402 Protocol` `MCP` |
-
----
+*   **160,000+ FOLLOWERS** (TikTok & YouTube) 
 
 ## 📫 LET'S CONNECT
 *   **LinkedIn**: [Boris Halachev](https://www.linkedin.com/in/boris-halachev-30b79b364/)
